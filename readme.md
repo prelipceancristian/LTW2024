@@ -9,10 +9,11 @@ Pentru a rula aplicatia este nevoie ca ambele module sa ruleze.
 
 ### FE
 Urmatoarele librarii au fost folosite:
-- Axios
+- axios
 - react-bootstrap
 - bootstrap
-Pentru a instala toate dependintele este suficient sa se ruleze comanda "npm install" in folderul corespunzator modulului. 
+
+Pentru a instala toate dependintele este suficient sa se ruleze comanda `npm install` in folderul corespunzator modulului. 
 Odata instalate, se foloseste comanda "npm start" pentru a rula aplicatia. 
 
 ### BE
@@ -25,5 +26,6 @@ Urmatoarele pachete NuGet au fost folosite:
 - Microsoft.EntityFrameworkCore
 - Swashbucle.AspNetCore
 - System.IdentityModel.Tokens.Jwt
-Pentru a instala toate dependintele este suficient sa se ruleze comanda "nuget restore be.sln" in folderul corespunzator modulului. 
+
+Pentru a instala toate dependintele este suficient sa se ruleze comanda `nuget restore be.sln` in folderul corespunzator modulului. 
 Odata instalate, se foloseste comanda "dotnet run" pentru a rula aplicatia. 
